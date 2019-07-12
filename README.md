@@ -1,8 +1,10 @@
-# note-app
+# Note App
 
-Live Link: https://aeldenburg001.github.io/note-app/
+![Live Link](https://aeldenburg001.github.io/note-app/)
 
 <p>A minimal note application using Vanilla JavaScript.</p>
+
+![Note App](images/screen.png)
 
 ### To be improved
 <ul>
